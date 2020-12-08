@@ -1,2 +1,2 @@
 # assign-activity-app
-php web app that enables users to assign activities between each other
+This app enebles users to assign each other activities with different options for administrator, such are table with assigned activities, possibility for changing users password and other.
